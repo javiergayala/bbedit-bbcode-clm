@@ -2,9 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
 	"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-
-<!--  The smallest CLM that will color keywords.
-      Copyright (c) 2012 Bare Bones Software, Inc. -->
 		
 <dict>
 	<!-- You must identify the plist as a CLM: -->
